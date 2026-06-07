@@ -1,4 +1,4 @@
-# hand-gesture-recognition-cnn# Hand Gesture Recognition Using CNN
+#Hand Gesture Recognition Using CNN
 
 ## Project Overview
 This project implements a Convolutional Neural Network (CNN) to recognize hand gestures from images.

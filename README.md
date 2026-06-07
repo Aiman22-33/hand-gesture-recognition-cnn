@@ -39,9 +39,6 @@ The model achieved excellent performance on the validation dataset.
 ### Sample Prediction
 ![Prediction](images/prediction.png)
 
-### Multiple Predictions
-![Prediction Output](images/prediction output.png)
-
 ## Future Work
 - Real-time webcam gesture recognition
 - Mobile deployment

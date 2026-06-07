@@ -32,4 +32,5 @@ The model successfully classified hand gestures with high accuracy and produced 
 - Additional gesture classes
 
 ## Author
-Mohammed Aiman
+Mohammed Aiman Sadhik
+

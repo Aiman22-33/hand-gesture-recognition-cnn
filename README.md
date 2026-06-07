@@ -24,7 +24,23 @@ The dataset contains approximately 13,000 images divided into 5 classes:
 - Validation Loss: 0.0339
 
 ## Results
-The model successfully classified hand gestures with high accuracy and produced strong confusion matrix and classification report results.
+
+The model achieved excellent performance on the validation dataset.
+
+### Accuracy Curve
+![Accuracy](images/Accuracy.png)
+
+### Loss Curve
+![Loss](images/loss.png)
+
+### Confusion Matrix
+![Confusion Matrix](images/Matrix.png)
+
+### Sample Prediction
+![Prediction](images/prediction.png)
+
+### Multiple Predictions
+![Prediction Output](images/prediction output.png)
 
 ## Future Work
 - Real-time webcam gesture recognition
